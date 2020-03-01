@@ -3,8 +3,8 @@ import React from 'react';
 const SearchPanel = () => {
     return (
         <input
-            placeholder={"123"}
-            autoComplete="123" />
+            placeholder={"Start typing..."}
+            autoComplete="Start typing..." />
     )
 };
 
